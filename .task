@@ -1,0 +1,6 @@
+1. Buat CRUD untuk Halaman Genre dan Film (60 point) (done)
+2. Buat Auth (Login & Register) & middleware halaman Genre dan middleware halaman Film kecuali show dan index (15 Point) (done)
+3. Buat Relasi antar table sesuai dengan erd di setiap modelnya (15 Point) (done)
+4. buat List film dari relasi , di halaman detail genre 
+5. tampilakan nama genre di halaman film 
+6. Buat Fitur tambah Komentar dan list List Komentar pada halaman detail film (10 Point) 
